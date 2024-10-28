@@ -2,6 +2,8 @@
 
 This script preprocesses a genetic dataset in VCF format, performing multiple steps including sample extraction, file format conversion, filtering by minor allele frequency (MAF) and heterozygosity, kinship calculation, and principal component analysis (PCA).
 
+WiDiv.vcf.gz can be downloaded from the [link](https://datadryad.org/stash/dataset/doi:10.5061/dryad.bnzs7h4f1)
+
 ---
 
 ## SLURM Job Parameters
