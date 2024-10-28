@@ -15,7 +15,7 @@ This script preprocesses a genetic dataset in VCF format, performing multiple st
 #SBATCH --partition=batch,jclarke,guest  # Partition to submit the job to
 #SBATCH --output=%x.out                  # Standard output file name pattern (%x: job name)
 #SBATCH --mail-type=ALL                  # Send email notifications for job start, end, and fail events
-#SBATCH --mail-user=jtorres-rodriguez2@unl.edu # Email for job notifications
+#SBATCH --mail-user=<your email> # Email for job notifications
 ```
 
 ## Loading Required Modules
